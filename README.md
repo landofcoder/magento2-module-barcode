@@ -27,3 +27,6 @@ php bin/magento setup:upgrade
 php bin/magento setup:static-content:deploy -f
 php bin/magento indexer:reindex
 ```
+
+## User Guide
+- [User Guide](https://landofcoder.gitbook.io/magento-2-barcode-suite/)
